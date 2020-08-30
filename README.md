@@ -1,4 +1,4 @@
-### Welcome to my profile!  <img align="right" src="https://ugurhalil.com/wp-content/uploads/2020/08/HuLogoRGB256.png" alt="Halil UĞUR" /></a>
+### Hi there!  <img align="right" src="https://ugurhalil.com/wp-content/uploads/2020/08/HuLogoRGB256.png" alt="Halil UĞUR" /></a>
 
 I met software at an early age and had a great revolution in my inner world. My interest in the programming world has affected my business world positively as perseverance and determination. It gave me the experience of making decisions, managing and working together. This is a very important factor into my personality and I want doing best like. 
 
