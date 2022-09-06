@@ -11,4 +11,4 @@ Site: [Halil UĞUR](https://ugurhalil.com/)
 [![Gmail Badge](https://img.shields.io/badge/-mr.halilugur@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.halilugur@gmail.com)](mailto:mr.halilugur@gmail.com)
 
 
-**🧑‍💼 Currently working as:** Java Software Engineer at <a href="https://www.huawei.com/tr/" target="_blank"><b>Huawei</b></a>
+**🧑‍💼 Currently working as:** Java Software Engineer at <a href="https://guavapay.com/" target="_blank"><b>Guavapay</b></a>
