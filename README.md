@@ -1,4 +1,4 @@
-**🧑‍💼 Currently working as:** Java Software Engineer at <a href="https://guavapay.com/" target="_blank"><b>Guavapay</b></a>
+**🧑‍💼 Currently working as:** Java Software Engineer at <a href="https://thy.com/" target="_blank"><b>Turkish Airlines</b></a>
 
 # Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Halil UGUR
 
