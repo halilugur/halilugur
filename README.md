@@ -1,6 +1,6 @@
-**🧑‍💼 Currently working as:** Java Software Engineer at <a href="https://thy.com/" target="_blank"><b>Turkish Airlines</b></a>
+**🧑‍💼 Currently working as:** Java Software Engineer at <a href="https://thy.com/" target="_blank"><b>Turkish Technolohies</b></a>
 
-# Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Halil UGUR
+# Hi, everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [Halil UGUR](https://halilugur.github.io/)
 
 ### About Me 
 A Software Engineer with more than 5 years of Java language experience and keen on front-end technologies. He had worked on a lot of projects that had different structures. During this time, he learned many new information and technologies. Skilled in using technologies such as Java, Spring Boot, Angular, ReactJs, AngularJs, Node, Kubernetes, RabbitMQ, Docker, JavaScript, Typescript, and SQL.
